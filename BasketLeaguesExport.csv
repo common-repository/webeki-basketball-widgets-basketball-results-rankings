@@ -1,0 +1,658 @@
+Country,LeagueName,LeagueId,isCup,StageName,StageId,GroupName
+Africa,Africa Champions Cup,1576,1,Regular Season,1576,
+Africa,Africa Champions Cup Women,4067,1,Regular Season,4067,
+Africa,Africa Cup 3x3,4062,1,Regular Season,4062,
+Africa,Africa Cup 3x3 Women,4063,1,Regular Season,4063,
+Africa,African Championship U16,3517,1,Regular Season,3517,
+Africa,African Championship U16,3517,1,Regular Season,3517,Regular+Season
+Africa,African Championship U16 Women,3544,1,Regular Season,3544,
+Africa,African Championship U16 Women,3544,1,Regular Season,3544,Regular+Season
+Africa,African Championship U18 Women,3993,1,Regular Season,3993,
+Africa,African Championship U18 Women,3993,1,Regular Season,3993,Regular+Season
+Africa,African Championship Women,2455,1,Regular Season,2455,
+Argentina,Liga A,1170,0,Regular Season,1170,
+Argentina,Liga A,1170,0,Regular Season,1170,Regular+Season
+Argentina,Super Cup,4071,1,Regular Season,4071,
+Argentina,Torneo Super 20 Playoffs,3592,1,Regular Season,3592,
+Argentina,Torneo Super 20,3592,1,Regular Season,3592,Group+A1
+Argentina,Torneo Super 20,3592,1,Regular Season,3592,Group+A2
+Argentina,Torneo Super 20,3592,1,Regular Season,3592,Group+B1
+Argentina,Torneo Super 20,3592,1,Regular Season,3592,Group+B2
+Argentina,Torneo Super 20,3592,1,Regular Season,3592,North
+Argentina,Torneo Super 20,3592,1,Regular Season,3592,South
+Asia,ABL,1307,1,Regular Season,1307,
+Asia,Asia Champions Cup,1304,1,Regular Season,1304,
+Asia,Asia Championship U16,3708,1,Regular Season,3708,
+Asia,Asia Championship U16 B Women,3616,1,Regular Season,3616,
+Asia,Asia Championship U16 Women,3615,1,Regular Season,3615,
+Asia,Asia Championship U18,2087,1,Regular Season,2087,
+Asia,Asia Championship U18 B Women,4056,1,Regular Season,4056,
+Asia,Asia Championship U18 Women,4057,1,Regular Season,4057,
+Asia,Asia Cup,2097,1,Regular Season,2097,
+Asia,Asia Cup,2097,1,Regular Season,2097,Group+A
+Asia,Asia Cup,2097,1,Regular Season,2097,Group+B
+Asia,Asia Cup,2097,1,Regular Season,2097,Group+C
+Asia,Asia Cup,2097,1,Regular Season,2097,Group+D
+Asia,Asia Cup,2097,1,Regular Season,2097,Group+E
+Asia,Asia Cup,2097,1,Regular Season,2097,Group+F
+Asia,Asia Cup 3x3,3621,1,Regular Season,3621,
+Asia,Asia Cup 3x3 U18,3674,1,Regular Season,3674,
+Asia,Asia Cup 3x3 U18 Women,3675,1,Regular Season,3675,
+Asia,Asia Cup 3x3 Women,3620,1,Regular Season,3620,
+Asia,Asia Cup Women,3521,1,Regular Season,3521,
+Asia,Asia Cup Women,3521,1,Regular Season,3521,Group+A
+Asia,Asia Cup Women,3521,1,Regular Season,3521,Group+B
+Asia,Asian Games,2620,1,Regular Season,2620,
+Asia,Asian Games,2620,1,Regular Season,2620,Group+A
+Asia,Asian Games,2620,1,Regular Season,2620,Group+B
+Asia,Asian Games,2620,1,Regular Season,2620,Group+C
+Asia,Asian Games,2620,1,Regular Season,2620,Group+D
+Asia,Asian Games 3x3,3994,1,Regular Season,3994,
+Asia,Asian Games 3x3 Women,3995,1,Regular Season,3995,
+Asia,Asian Games Women,2613,1,Regular Season,2613,
+Asia,Asian Games Women,2613,1,Regular Season,2613,Group+A
+Asia,Asian Games Women,2613,1,Regular Season,2613,Group+B
+Asia,EABA Championship,3454,1,Regular Season,3454,
+Asia,SEABA Championship,3447,1,Regular Season,3447,
+Asia,SEABA Championship Women,3236,1,Regular Season,3236,
+Asia,Southeast Asian Games,2707,1,Regular Season,2707,
+Asia,Southeast Asian Games Women,2708,1,Regular Season,2708,
+Australia,NBL,1183,0,Regular Season,1183,
+Australia,NBL,1183,0,Regular Season,1183,Regular+Season
+Australia,NBL1,4103,0,Regular Season,4103,
+Australia,NBL1 Women,4104,0,Regular Season,4104,
+Australia,WNBL Women,1521,0,Regular Season,1521,
+Australia,WNBL Women,1521,0,Regular Season,1521,Regular+Season
+Austria,Austria Cup,1286,1,Regular Season,1286,
+Austria,AWBL Women,2615,1,Regular Season,2615,
+Austria,Zweite Liga,2472,0,Regular Season,2472,
+Austria,Zweite Liga,2472,0,Regular Season,2472,Regular+Season
+Bahrain,Premier League,2287,0,Regular Season,2287,
+Bahrain,Premier League,2287,0,Regular Season,2287,Regular+Season
+Belarus,Premier League,2274,0,Regular Season,2274,
+Belarus,Premier League,2274,0,Regular Season,2274,Regular+Season
+Belarus,Premier League Women,3967,0,Regular Season,3967,
+Belarus,Premier League Women,3967,0,Regular Season,3967,Regular+Season
+Belgium,Belgian Cup,2272,1,Regular Season,2272,
+Belgium,EuroMillions Basketball League,3509,0,Regular Season,3509,
+Belgium,Top Division Women,3650,0,Regular Season,3650,
+Belgium,Top Division Women,3650,0,Regular Season,3650,Regular+Season
+Bosnia And Herzegovina,Prvenstvo BiH,2656,0,Regular Season,2656,
+Bosnia And Herzegovina,Prvenstvo BiH,2656,0,Regular Season,2656,Regular+Season
+Brazil,LBF Women,1594,0,Regular Season,1594,
+Brazil,NBB,1171,0,Regular Season,1171,
+Brazil,NBB,1171,0,Regular Season,1171,Regular+Season
+Bulgaria,Bulgarian Cup,1326,1,Regular Season,1326,
+Bulgaria,NBL,1017,0,Regular Season,1017,
+Bulgaria,NBL,1017,0,Regular Season,1017,Regular+Season
+Canada,NBL,2242,0,Regular Season,2242,
+Canada,U Sports,3613,0,Regular Season,3613,
+Canada,U Sports,3613,0,Regular Season,3613,Atlantic+University+Sport
+Canada,U Sports,3613,0,Regular Season,3613,CW+Central
+Canada,U Sports,3613,0,Regular Season,3613,CW+East
+Canada,U Sports,3613,0,Regular Season,3613,CW+West
+Canada,U Sports,3613,0,Regular Season,3613,OUA+East
+Canada,U Sports,3613,0,Regular Season,3613,OUA+West
+Canada,U Sports,3613,0,Regular Season,3613,RSEQ
+Chile,LNB,2633,0,Regular Season,2633,Regular+Season
+China,CBA,1571,0,Regular Season,1571,
+China,CBA,1571,0,Regular Season,1571,Regular+Season
+China,WCBA Women,2281,0,Regular Season,2281,
+Croatia,Croatian Cup,2310,1,Regular Season,2310,
+Croatia,Premijer liga,3983,0,Regular Season,3983,
+Croatia,Premijer liga,3983,0,Regular Season,3983,Regular+Season
+Cyprus,Division A,1173,0,Regular Season,1173,
+Cyprus,Division A,1173,0,Regular Season,1173,Regular+Season
+Czech Republic,Czech Cup,1336,1,Regular Season,1336,
+Czech Republic,Czech Cup Women,1570,1,Regular Season,1570,
+Czech Republic,NBL,1011,0,Regular Season,1011,
+Czech Republic,NBL,1011,0,Regular Season,1011,Regular+Season
+Czech Republic,ZBL Women,1501,0,Regular Season,1501,
+Czech Republic,ZBL Women,1501,0,Regular Season,1501,Regular+Season
+Denmark,Basketligaen,2542,0,Regular Season,2542,
+Denmark,Basketligaen,2542,0,Regular Season,2542,Regular+Season
+Denmark,Dameligaen Women,1328,0,Regular Season,1328,
+Denmark,Dameligaen Women,1328,0,Regular Season,1328,Regular+Season
+Denmark,Denmark Cup,1185,1,Regular Season,1185,
+Denmark,Denmark Cup Women,1442,1,Regular Season,1442,
+Europe,ABA League,1532,0,Regular Season,1532,
+Europe,ABA League,1532,0,Regular Season,1532,Regular+Season
+Europe,ABA League 2,3608,0,Regular Season,3608,
+Europe,ABA League 2,3608,0,Regular Season,3608,Regular+Season
+Europe,ABA Supercup,3596,1,Regular Season,3596,
+Europe,Acropolis Tournament,1319,0,Regular Season,1319,
+Europe,Alpe Adria Cup,2764,1,Regular Season,2764,
+Europe,Alpe Adria Cup,2764,1,Regular Season,2764,Group+A
+Europe,Alpe Adria Cup,2764,1,Regular Season,2764,Group+B
+Europe,Alpe Adria Cup,2764,1,Regular Season,2764,Group+C
+Europe,Alpe Adria Cup,2764,1,Regular Season,2764,Group+D
+Europe,BIBL,1297,0,Regular Season,1297,
+Europe,BIBL,1297,0,Regular Season,1297,Group+A
+Europe,BIBL,1297,0,Regular Season,1297,Group+B
+Europe,CEWL Women,2634,1,Regular Season,2634,
+Europe,Champions League,2863,1,Regular Season,2863,
+Europe,Champions League,2863,1,Regular Season,2863,Group+A
+Europe,Champions League,2863,1,Regular Season,2863,Group+B
+Europe,Champions League,2863,1,Regular Season,2863,Group+C
+Europe,Champions League,2863,1,Regular Season,2863,Group+D
+Europe,Champions League,2863,1,Regular Season,2863,Group+E
+Europe,Champions League,2863,1,Regular Season,2863,Group+F
+Europe,Champions League,2863,1,Regular Season,2863,Group+G
+Europe,Champions League,2863,1,Regular Season,2863,Group+H
+Europe,EuroBasket,1312,1,Regular Season,1312,
+Europe,EuroBasket,1312,1,Regular Season,1312,Group+A
+Europe,EuroBasket,1312,1,Regular Season,1312,Group+B
+Europe,EuroBasket,1312,1,Regular Season,1312,Group+C
+Europe,EuroBasket,1312,1,Regular Season,1312,Group+D
+Europe,EuroBasket,1312,1,Regular Season,1312,Group+E
+Europe,EuroBasket,1312,1,Regular Season,1312,Group+F
+Europe,EuroBasket,1312,1,Regular Season,1312,Group+G
+Europe,EuroBasket,1312,1,Regular Season,1312,Group+H
+Europe,EuroBasket,1312,1,Regular Season,1312,Ranking+of+second-placed+teams
+Europe,EuroBasket U16,1410,1,Regular Season,1410,
+Europe,EuroBasket U16 B,2837,1,Regular Season,2837,
+Europe,EuroBasket U16 C,2841,1,Regular Season,2841,
+Europe,EuroBasket U18,1405,1,Regular Season,1405,
+Europe,EuroBasket U18 B,1438,1,Regular Season,1438,
+Europe,EuroBasket U18 C,2842,1,Regular Season,2842,
+Europe,EuroBasket U20,1313,1,Regular Season,1313,
+Europe,EuroBasket U20 B,1390,1,Regular Season,1390,
+Europe,Eurocup,1291,0,Regular Season,1291,
+Europe,Eurocup,1291,0,Regular Season,1291,Group+A
+Europe,Eurocup,1291,0,Regular Season,1291,Group+B
+Europe,EuroCup Women,2237,1,Regular Season,2237,
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+A
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+B
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+C
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+D
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+E
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+F
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+G
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+H
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+I
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+J
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+K
+Europe,EuroCup Women,2237,1,Regular Season,2237,Group+L
+Europe,EuroCup Women,2237,1,Regular Season,2237,Ranking+of+third-placed+teams
+Europe,Euroleague,1287,0,Regular Season,1287,
+Europe,Euroleague,1287,0,Regular Season,1287,Regular+Season
+Europe,Euroleague Women,1527,1,Regular Season,1527,
+Europe,Euroleague Women,1527,1,Regular Season,1527,Group+A
+Europe,Euroleague Women,1527,1,Regular Season,1527,Group+B
+Europe,Europe Cup 3x3,3491,1,Regular Season,3491,
+Europe,Europe Cup 3x3,3491,1,Regular Season,3491,Group+A
+Europe,Europe Cup 3x3,3491,1,Regular Season,3491,Group+B
+Europe,Europe Cup 3x3,3491,1,Regular Season,3491,Group+C
+Europe,Europe Cup 3x3,3491,1,Regular Season,3491,Group+D
+Europe,Europe Cup 3x3 U18,3572,1,Regular Season,3572,
+Europe,Europe Cup 3x3 U18 Women,3573,1,Regular Season,3573,
+Europe,Europe Cup 3x3 Women,3492,1,Regular Season,3492,
+Europe,Europe Cup 3x3 Women,3492,1,Regular Season,3492,Group+A
+Europe,Europe Cup 3x3 Women,3492,1,Regular Season,3492,Group+B
+Europe,Europe Cup 3x3 Women,3492,1,Regular Season,3492,Group+C
+Europe,Europe Cup 3x3 Women,3492,1,Regular Season,3492,Group+D
+Europe,European Championship U16 B Women,3452,1,Regular Season,3452,
+Europe,European Championship U16 C Women,3451,1,Regular Season,3451,
+Europe,European Championship U16 Women,2433,1,Regular Season,2433,
+Europe,European Championship U18 B Women,1474,1,Regular Season,1474,
+Europe,European Championship U18 C Women,2847,1,Regular Season,2847,
+Europe,European Championship U18 Women,1477,1,Regular Season,1477,
+Europe,European Championship U20 B Women,1368,1,Regular Season,1368,
+Europe,European Championship U20 Women,1370,1,Regular Season,1370,
+Europe,European Championship Women,1357,1,Regular Season,1357,
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+A
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+B
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+C
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+D
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+E
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+F
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+G
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+H
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+I
+Europe,European Championship Women,1357,1,Regular Season,1357,Group+J
+Europe,European Championship Women,1357,1,Regular Season,1357,Ranking+of+second-placed+teams
+Europe,European Games 3x3,4177,1,Regular Season,4177,
+Europe,European Games 3x3 Women,4176,1,Regular Season,4176,
+Europe,EWBL Women,4004,1,Regular Season,4004,
+Europe,EWBL Women,4004,1,Regular Season,4004,Group+A
+Europe,EWBL Women,4004,1,Regular Season,4004,Group+B
+Europe,FIBA Europe Cup,2781,1,Regular Season,2781,
+Europe,FIBA Europe Cup,2781,1,Regular Season,2781,Group+A
+Europe,FIBA Europe Cup,2781,1,Regular Season,2781,Group+B
+Europe,FIBA Europe Cup,2781,1,Regular Season,2781,Group+C
+Europe,FIBA Europe Cup,2781,1,Regular Season,2781,Group+D
+Europe,FIBA Europe Cup,2781,1,Regular Season,2781,Group+E
+Europe,FIBA Europe Cup,2781,1,Regular Season,2781,Group+F
+Europe,FIBA Europe Cup,2781,1,Regular Season,2781,Group+G
+Europe,FIBA Europe Cup,2781,1,Regular Season,2781,Group+H
+Europe,Games of the Small States of Europe,3455,1,Regular Season,3455,
+Europe,Games of the Small States of Europe Women,3456,1,Regular Season,3456,
+Europe,Gomelsky Cup,1415,1,Regular Season,1415,
+Europe,Latvia-Estonian League,4008,0,Regular Season,4008,
+Europe,Latvia-Estonian League,4008,0,Regular Season,4008,Regular+Season
+Europe,Small Countries European Championship,2839,1,Regular Season,2839,
+Europe,Small Countries European Championship Women,2840,1,Regular Season,2840,
+Europe,SuperCup Women,2483,1,Regular Season,2483,
+Europe,WABA League Women,3234,0,Regular Season,3234,
+Europe,WABA League Women,3234,0,Regular Season,3234,Group+A
+Europe,WABA League Women,3234,0,Regular Season,3234,Group+B
+Europe,WBBL Women,3253,0,Regular Season,3253,
+Europe,WBBL Women,3253,0,Regular Season,3253,Group+A
+Europe,WBBL Women,3253,0,Regular Season,3253,Group+B
+Finland,Korisliiga,1155,0,Regular Season,1155,
+Finland,Korisliiga,1155,0,Regular Season,1155,Regular+Season
+Finland,Korisliiga Women,3305,0,Regular Season,3305,
+Finland,Korisliiga Women,3305,0,Regular Season,3305,Regular+Season
+France,French Cup,1337,1,Regular Season,1337,
+France,Leaders Cup,2298,1,Regular Season,2298,
+France,LFB Women,1538,0,Regular Season,1538,
+France,LFB Women,1538,0,Regular Season,1538,Regular+Season
+France,LNB,1001,0,Regular Season,1001,
+France,LNB,1001,0,Regular Season,1001,Regular+Season
+France,Pro B,1158,0,Regular Season,1158,
+France,Pro B,1158,0,Regular Season,1158,Regular+Season
+Georgia,Superleague,2487,0,Regular Season,2487,
+Georgia,Superleague,2487,0,Regular Season,2487,Regular+Season
+Germany,BBL,1004,0,Regular Season,1004,
+Germany,BBL,1004,0,Regular Season,1004,Regular+Season
+Germany,DBBL Women,1505,0,Regular Season,1505,
+Germany,DBBL Women,1505,0,Regular Season,1505,Regular+Season
+Germany,German Cup,1327,1,Regular Season,1327,
+Germany,Pro A,1574,0,Regular Season,1574,
+Germany,Pro A,1574,0,Regular Season,1574,Regular+Season
+Germany,Pro B,3942,0,Regular Season,3942,
+Germany,Pro B,3942,0,Regular Season,3942,North
+Germany,Pro B,3942,0,Regular Season,3942,South
+Greece,A2,1168,0,Regular Season,1168,
+Greece,A2,1168,0,Regular Season,1168,Regular+Season
+Greece,Basket League,2490,0,Regular Season,2490,
+Greece,Basket League,2490,0,Regular Season,2490,Regular+Season
+Greece,Greek Cup,1325,1,Regular Season,1325,
+Hungary,Hungarian Cup,3322,1,Regular Season,3322,
+Hungary,Hungarian Cup Women,3429,1,Regular Season,3429,
+Hungary,NB I. A,1524,0,Regular Season,1524,
+Hungary,NB I. A,1524,0,Regular Season,1524,Regular+Season
+Hungary,NB I. A Women,4006,0,Regular Season,4006,
+Hungary,NB I. A Women,4006,0,Regular Season,4006,Regular+Season
+Iceland,Premier league,2275,0,Regular Season,2275,
+Iceland,Premier league,2275,0,Regular Season,2275,Regular+Season
+Iceland,Premier League Women,3301,0,Regular Season,3301,
+Iceland,Premier League Women,3301,0,Regular Season,3301,Regular+Season
+Indonesia,IBL,2794,0,Regular Season,2794,
+Indonesia,IBL,2794,0,Regular Season,2794,Red+Group
+Indonesia,IBL,2794,0,Regular Season,2794,Regular+Season
+Indonesia,IBL,2794,0,Regular Season,2794,White+Group
+Ireland,SuperLeague,2222,0,Regular Season,2222,
+Ireland,SuperLeague,2222,0,Regular Season,2222,Regular+Season
+Israel,Israel Cup,1341,1,Regular Season,1341,
+Israel,League Cup,3235,1,Regular Season,3235,
+Israel,Super League,1034,0,Regular Season,1034,
+Israel,Super League,1034,0,Regular Season,1034,Regular+Season
+Italy,A2 - Play Offs,2694,1,Regular Season,2694,
+Italy,A2 - Play Out,2831,1,Regular Season,2831,
+Italy,A2 East,2752,0,Regular Season,2752,
+Italy,A2 West,2751,0,Regular Season,2751,
+Italy,Italian Cup,1347,1,Regular Season,1347,
+Italy,Lega A,1037,0,Regular Season,1037,
+Italy,Lega A,1037,0,Regular Season,1037,Regular+Season
+Italy,Lega A - Super Cup,1016,1,Regular Season,1016,
+Italy,Lega A - Super Cup,1016,1,Regular Season,1016,Group+A
+Italy,Lega A - Super Cup,1016,1,Regular Season,1016,Group+B
+Italy,Lega A - Super Cup,1016,1,Regular Season,1016,Group+C
+Italy,Lega A - Super Cup,1016,1,Regular Season,1016,Group+D
+Italy,Serie A1 Women,1531,0,Regular Season,1531,
+Italy,Serie A1 Women,1531,0,Regular Season,1531,Regular+Season
+Japan,B.League,3238,0,Regular Season,3238,
+Japan,B.League,3238,0,Regular Season,3238,Eastern+Conference
+Japan,B.League,3238,0,Regular Season,3238,Western+Conference
+Kazakhstan,National League,3255,0,Regular Season,3255,
+Kazakhstan,National League,3255,0,Regular Season,3255,Regular+Season
+Kazakhstan,Premier League,3256,0,Regular Season,3256,
+Kazakhstan,Premier League,3256,0,Regular Season,3256,Regular+Season
+Kosovo,Superliga,2536,0,Regular Season,2536,
+Kosovo,Superliga,2536,0,Regular Season,2536,Regular+Season
+Latvia,LBL,1543,1,Regular Season,1543,
+Lithuania,LKF Cup,4074,1,Regular Season,4074,
+Lithuania,LKL,1525,0,Regular Season,1525,
+Lithuania,LKL,1525,0,Regular Season,1525,Regular+Season
+Lithuania,Moteru Lyga Women,4010,0,Regular Season,4010,
+Lithuania,Moteru Lyga Women,4010,0,Regular Season,4010,Regular+Season
+Lithuania,NKL,3249,0,Regular Season,3249,
+Lithuania,NKL,3249,0,Regular Season,3249,Regular+Season
+Mexico,LNBP,1542,0,Regular Season,1542,
+Mexico,LNBP,1542,0,Regular Season,1542,East
+Mexico,LNBP,1542,0,Regular Season,1542,West
+Montenegro,Prva A Liga,3299,0,Regular Season,3299,
+Montenegro,Prva A Liga,3299,0,Regular Season,3299,Regular+Season
+Netherlands,DBL,2338,0,Regular Season,2338,
+Netherlands,DBL,2338,0,Regular Season,2338,Regular+Season
+Netherlands,NBB Cup,4072,1,Regular Season,4072,
+Netherlands,Supercup,4017,1,Regular Season,4017,
+New Zealand,NBL,1938,0,Regular Season,1938,
+New Zealand,NBL,1938,0,Regular Season,1938,Regular+Season
+North Central America,Americas Championship U18,4033,1,Regular Season,4033,
+North Central America,Americas Championship U18 Women,4035,1,Regular Season,4035,
+North Central America,Central American & Caribbean Games,4037,1,Regular Season,4037,
+North Central America,Central American & Caribbean Games,4037,1,Regular Season,4037,Group+A
+North Central America,Central American & Caribbean Games,4037,1,Regular Season,4037,Group+B
+North Central America,Central American & Caribbean Games Women,4045,1,Regular Season,4045,
+North Central America,Central American & Caribbean Games Women,4045,1,Regular Season,4045,Group+A
+North Central America,Central American & Caribbean Games Women,4045,1,Regular Season,4045,Group+B
+North Central America,Centrobasket Championship Women,4049,1,Regular Season,4049,
+North Macedonia,Macedonian Cup,4083,1,Regular Season,4083,
+North Macedonia,Superleague,4084,0,Regular Season,4084,
+North Macedonia,Superleague,4084,0,Regular Season,4084,Regular+Season
+Norway,BLNO,1115,0,Regular Season,1115,
+Norway,BLNO,1115,0,Regular Season,1115,Regular+Season
+Norway,Kvinneligaen Women,1343,0,Regular Season,1343,
+Norway,Kvinneligaen Women,1343,0,Regular Season,1343,Regular+Season
+Philippines,Commissioners Cup,1931,1,Regular Season,1931,
+Philippines,Governors Cup,1322,1,Regular Season,1322,
+Philippines,Philippine Cup,1316,1,Regular Season,1316,
+Philippines,Philippine Cup,1316,1,Regular Season,1316,Regular+Season
+Poland,1. Liga,3250,0,Regular Season,3250,
+Poland,1. Liga,3250,0,Regular Season,3250,Regular+Season
+Poland,Energa Basket Liga,3634,0,Regular Season,3634,
+Poland,Energa Basket Liga,3634,0,Regular Season,3634,Regular+Season
+Poland,Energa Basket Liga Women,3636,0,Regular Season,3636,
+Poland,Energa Basket Liga Women,3636,0,Regular Season,3636,Regular+Season
+Poland,Polish Cup,1350,1,Regular Season,1350,
+Poland,Polish Cup Women,1572,1,Regular Season,1572,
+Poland,Super Cup,1496,1,Regular Season,1496,
+Portugal,LPB,1530,0,Regular Season,1530,
+Portugal,LPB,1530,0,Regular Season,1530,Regular+Season
+Portugal,Super Cup,4011,1,Regular Season,4011,
+Portugal,Taca de Portugal,4076,1,Regular Season,4076,
+Puerto Rico,BSN,2696,0,Regular Season,2696,
+Puerto Rico,BSN,2696,0,Regular Season,2696,Group+A
+Puerto Rico,BSN,2696,0,Regular Season,2696,Group+B
+Qatar,QBL,2488,0,Regular Season,2488,
+Qatar,QBL,2488,0,Regular Season,2488,Regular+Season
+Romania,Divizia A,1516,0,Regular Season,1516,
+Romania,Divizia A,1516,0,Regular Season,1516,Regular+Season
+Romania,Liga National Women,4066,0,Regular Season,4066,
+Romania,Liga National Women,4066,0,Regular Season,4066,Regular+Season
+Romania,Romanian Cup,4089,1,Regular Season,4089,
+Russia,Premier League Women,3640,0,Regular Season,3640,
+Russia,Premier League Women,3640,0,Regular Season,3640,Regular+Season
+Russia,Russian Cup,1346,1,Regular Season,1346,
+Russia,Russian Cup,1346,1,Regular Season,1346,Group+A
+Russia,Russian Cup,1346,1,Regular Season,1346,Group+B
+Russia,Russian Cup,1346,1,Regular Season,1346,Group+C
+Russia,Russian Cup,1346,1,Regular Season,1346,Group+D
+Russia,Russian Cup Women,2278,1,Regular Season,2278,
+Russia,Super League,2489,0,Regular Season,2489,
+Russia,Super League,2489,0,Regular Season,2489,Regular+Season
+Russia,VTB United League,3524,0,Regular Season,3524,
+Russia,VTB United League,3524,0,Regular Season,3524,Regular+Season
+Saudi Arabia,Premier League,2288,0,Regular Season,2288,
+Saudi Arabia,Premier League,2288,0,Regular Season,2288,Regular+Season
+Serbia,First League,1512,0,Regular Season,1512,
+Serbia,First League,1512,0,Regular Season,1512,Regular+Season
+Serbia,Korac cup,1933,1,Regular Season,1933,
+Serbia,Superleague,1581,0,Regular Season,1581,
+Slovakia,Extraliga,1160,0,Regular Season,1160,
+Slovakia,Extraliga,1160,0,Regular Season,1160,Regular+Season
+Slovakia,Extraliga Women,2304,0,Regular Season,2304,
+Slovakia,Extraliga Women,2304,0,Regular Season,2304,Regular+Season
+Slovakia,Slovakia Cup,2307,1,Regular Season,2307,
+Slovenia,1. SKL Women,3258,0,Regular Season,3258,
+Slovenia,1. SKL Women,3258,0,Regular Season,3258,Regular+Season
+Slovenia,Liga Nova KBM,2818,0,Regular Season,2818,
+Slovenia,Liga Nova KBM,2818,0,Regular Season,2818,Regular+Season
+Slovenia,Slovenian Cup,2520,1,Regular Season,2520,
+Slovenia,Supercup,2201,1,Regular Season,2201,
+South America,South American Championship U17,3510,1,Regular Season,3510,
+South America,South American Championship U17 Women,3488,1,Regular Season,3488,
+South America,South American Championship Women,2595,1,Regular Season,2595,
+South America,South American League,1923,0,Regular Season,1923,
+South Korea,KBL,1519,0,Regular Season,1519,
+South Korea,KBL,1519,0,Regular Season,1519,Regular+Season
+South Korea,WKBL Women,1545,0,Regular Season,1545,
+South Korea,WKBL Women,1545,0,Regular Season,1545,Regular+Season
+Spain,ACB,1014,0,Regular Season,1014,
+Spain,ACB,1014,0,Regular Season,1014,Regular+Season
+Spain,LEB Oro,2679,0,Regular Season,2679,
+Spain,LEB Oro,2679,0,Regular Season,2679,Regular+Season
+Spain,LEB Plata,2682,0,Regular Season,2682,
+Spain,LEB Plata,2682,0,Regular Season,2682,East
+Spain,LEB Plata,2682,0,Regular Season,2682,West
+Spain,Liga Femenina Women,1529,0,Regular Season,1529,
+Spain,Liga Femenina Women,1529,0,Regular Season,1529,Regular+Season
+Spain,Spanish Cup,1349,1,Regular Season,1349,
+Spain,Spanish Cup Women,4088,1,Regular Season,4088,
+Spain,Supercopa ACB,1027,1,Regular Season,1027,
+Spain,Supercopa Women,2468,1,Regular Season,2468,
+Sweden,Basketettan Women,4053,0,Regular Season,4053,
+Sweden,Basketettan Women,4053,0,Regular Season,4053,North
+Sweden,Basketettan Women,4053,0,Regular Season,4053,South
+Sweden,Basketligan,1162,0,Regular Season,1162,
+Sweden,Basketligan,1162,0,Regular Season,1162,Regular+Season
+Sweden,Basketligan Women,3240,0,Regular Season,3240,
+Sweden,Basketligan Women,3240,0,Regular Season,3240,Regular+Season
+Sweden,Superettan,4054,0,Regular Season,4054,
+Sweden,Superettan,4054,0,Regular Season,4054,Regular+Season
+Switzerland,SB League,3974,0,Regular Season,3974,
+Switzerland,SB League,3974,0,Regular Season,3974,Regular+Season
+Switzerland,SB League Women,3977,0,Regular Season,3977,
+Switzerland,SB League Women,3977,0,Regular Season,3977,Regular+Season
+Turkey,Federation Cup,3586,1,Regular Season,3586,
+Turkey,Federation Cup,3586,1,Regular Season,3586,Group+A
+Turkey,Federation Cup,3586,1,Regular Season,3586,Group+B
+Turkey,Federation Cup,3586,1,Regular Season,3586,Group+C
+Turkey,Federation Cup,3586,1,Regular Season,3586,Group+D
+Turkey,KBSL Women,2760,0,Regular Season,2760,
+Turkey,KBSL Women,2760,0,Regular Season,2760,Regular+Season
+Turkey,Super Cup,1535,1,Regular Season,1535,
+Turkey,Super Cup Women,2476,1,Regular Season,2476,
+Turkey,Super Ligi,2750,0,Regular Season,2750,
+Turkey,TB2L,2652,0,Regular Season,2652,
+Turkey,TB2L,2652,0,Regular Season,2652,Group+A
+Turkey,TB2L,2652,0,Regular Season,2652,Group+B
+Turkey,TB2L,2652,0,Regular Season,2652,Group+C
+Turkey,TB2L,2652,0,Regular Season,2652,Group+D
+Turkey,TBL,1045,0,Regular Season,1045,
+Turkey,TBL,1045,0,Regular Season,1045,Regular+Season
+Turkey,Turkish Cup,1344,1,Regular Season,1344,
+Turkey,Turkish Cup Women,2475,1,Regular Season,2475,
+Ukraine,FBU Superleague,2772,0,Regular Season,2772,
+Ukraine,FBU Superleague,2772,0,Regular Season,2772,Regular+Season
+Ukraine,Superleague Women,3768,0,Regular Season,3768,
+Ukraine,Superleague Women,3768,0,Regular Season,3768,Regular+Season
+Ukraine,Ukrainian Cup,2523,1,Regular Season,2523,
+United Kingdom,BBL,2467,0,Regular Season,2467,
+United Kingdom,BBL,2467,0,Regular Season,2467,Regular+Season
+United Kingdom,BBL Cup,2473,1,Regular Season,2473,
+United Kingdom,BBL Cup,2473,1,Regular Season,2473,North
+United Kingdom,BBL Cup,2473,1,Regular Season,2473,Quarter-finals
+United Kingdom,BBL Cup,2473,1,Regular Season,2473,South
+United Kingdom,BBL Trophy,2508,1,Regular Season,2508,
+United Kingdom,WBBL Women,3252,0,Regular Season,3252,
+United Kingdom,WBBL Women,3252,0,Regular Season,3252,Regular+Season
+Uruguay,Liga Uruguaya,4055,0,Regular Season,4055,
+Uruguay,Liga Uruguaya,4055,0,Regular Season,4055,Regular+Season
+Usa,BIG3 (3x3),3474,0,Regular Season,3474,
+Usa,BIG3 (3x3),3474,0,Regular Season,3474,Regular+Season
+Usa,CBI,1355,1,Regular Season,1355,
+Usa,CIT,1356,1,Regular Season,1356,
+Usa,NBA,1046,0,Regular Season,1046,
+Usa,NBA,1046,0,Regular Season,1046,Atlantic
+Usa,NBA,1046,0,Regular Season,1046,Central
+Usa,NBA,1046,0,Regular Season,1046,Northwest
+Usa,NBA,1046,0,Regular Season,1046,Pacific
+Usa,NBA,1046,0,Regular Season,1046,Southeast
+Usa,NBA,1046,0,Regular Season,1046,Southwest
+Usa,NBA G League,3473,0,Regular Season,3473,
+Usa,NBA G League,3473,0,Regular Season,3473,Atlantic
+Usa,NBA G League,3473,0,Regular Season,3473,Central
+Usa,NBA G League,3473,0,Regular Season,3473,Eastern+Conference
+Usa,NBA G League,3473,0,Regular Season,3473,Pacific
+Usa,NBA G League,3473,0,Regular Season,3473,Southwest
+Usa,NBA G League,3473,0,Regular Season,3473,Western+Conference
+Usa,NBA Las Vegas Summer League,2405,0,Regular Season,2405,
+Usa,NBA Las Vegas Summer League,2405,0,Regular Season,2405,Regular+Season
+Usa,NBA Sacramento Summer League,3960,0,Regular Season,3960,
+Usa,NBA Sacramento Summer League,3960,0,Regular Season,3960,Regular+Season
+Usa,NBA Utah Summer League,2718,0,Regular Season,2718,
+Usa,NCAA,1049,0,Regular Season,1049,America+East
+Usa,NCAA,1049,0,Regular Season,1049,American
+Usa,NCAA,1049,0,Regular Season,1049,Atlantic+10
+Usa,NCAA,1049,0,Regular Season,1049,Atlantic+Coast
+Usa,NCAA,1049,0,Regular Season,1049,Atlantic+Sun
+Usa,NCAA,1049,0,Regular Season,1049,Big+12
+Usa,NCAA,1049,0,Regular Season,1049,Big+East
+Usa,NCAA,1049,0,Regular Season,1049,Big+Sky
+Usa,NCAA,1049,0,Regular Season,1049,Big+South
+Usa,NCAA,1049,0,Regular Season,1049,Big+10
+Usa,NCAA,1049,0,Regular Season,1049,Big+West
+Usa,NCAA,1049,0,Regular Season,1049,Colonial+Athletic
+Usa,NCAA,1049,0,Regular Season,1049,Conference+USA
+Usa,NCAA,1049,0,Regular Season,1049,Horizon+League
+Usa,NCAA,1049,0,Regular Season,1049,Ivy+League
+Usa,NCAA,1049,0,Regular Season,1049,Metro+Atlantic+Atheltic
+Usa,NCAA,1049,0,Regular Season,1049,Mid-American
+Usa,NCAA,1049,0,Regular Season,1049,Mid-American+East
+Usa,NCAA,1049,0,Regular Season,1049,Mid-Eastern+Athletic
+Usa,NCAA,1049,0,Regular Season,1049,Missouri+Valley
+Usa,NCAA,1049,0,Regular Season,1049,Mountain+West
+Usa,NCAA,1049,0,Regular Season,1049,Northeast
+Usa,NCAA,1049,0,Regular Season,1049,Ohio+Valley
+Usa,NCAA,1049,0,Regular Season,1049,Pacific-12
+Usa,NCAA,1049,0,Regular Season,1049,Patriot+League
+Usa,NCAA,1049,0,Regular Season,1049,SEC
+Usa,NCAA,1049,0,Regular Season,1049,Southern
+Usa,NCAA,1049,0,Regular Season,1049,Southland
+Usa,NCAA,1049,0,Regular Season,1049,Southwestern+Athletic
+Usa,NCAA,1049,0,Regular Season,1049,Summit+League
+Usa,NCAA,1049,0,Regular Season,1049,Sun+Belt
+Usa,NCAA,1049,0,Regular Season,1049,West+Coast
+Usa,NCAA,1049,0,Regular Season,1049,Western+Athletic
+Usa,NIT,1354,1,Regular Season,1354,
+Usa,WNBA,1164,0,Regular Season,1164,
+Usa,WNBA,1164,0,Regular Season,1164,Eastern+Conference
+Usa,WNBA,1164,0,Regular Season,1164,Regular+Season
+Usa,WNBA,1164,0,Regular Season,1164,Western+Conference
+Venezuela,LPB,1939,0,Regular Season,1939,
+World,Albert Schweitzer Tournament,2021,1,Regular Season,2021,
+World,Americas Championship U16,3463,1,Regular Season,3463,
+World,Americas Championship U16,3463,1,Regular Season,3463,Group+A
+World,Americas Championship U16,3463,1,Regular Season,3463,Group+B
+World,Americas Championship U16 Women,3462,1,Regular Season,3462,
+World,Americas Championship U16 Women,3462,1,Regular Season,3462,Group+A
+World,Americas Championship U16 Women,3462,1,Regular Season,3462,Group+B
+World,Americas League,1988,1,Regular Season,1988,
+World,AmeriCup,3529,1,Regular Season,3529,
+World,AmeriCup,3529,1,Regular Season,3529,Group+A
+World,AmeriCup,3529,1,Regular Season,3529,Group+B
+World,AmeriCup,3529,1,Regular Season,3529,Group+C
+World,AmeriCup,3529,1,Regular Season,3529,Group+D
+World,AmeriCup Women,3530,1,Regular Season,3530,
+World,AmeriCup Women,3530,1,Regular Season,3530,Group+A
+World,AmeriCup Women,3530,1,Regular Season,3530,Group+B
+World,Club Friendly,1399,0,Regular Season,1399,
+World,Club Friendly Women,2102,0,Regular Season,2102,
+World,Commonwealth Games,3747,1,Regular Season,3747,
+World,Commonwealth Games Women,3748,1,Regular Season,3748,
+World,Friendly International,1283,1,Regular Season,1283,
+World,Friendly International Women,2053,0,Regular Season,2053,
+World,Intercontinental Cup,2464,1,Regular Season,2464,
+World,Mediterranean Games 3x3,3951,1,Regular Season,3951,
+World,Mediterranean Games 3x3 Women,3952,1,Regular Season,3952,
+World,Olympic Games,1928,1,Regular Season,1928,
+World,Olympic Games,1928,1,Regular Season,1928,Group+A
+World,Olympic Games,1928,1,Regular Season,1928,Group+A1
+World,Olympic Games,1928,1,Regular Season,1928,Group+A2
+World,Olympic Games,1928,1,Regular Season,1928,Group+A3
+World,Olympic Games,1928,1,Regular Season,1928,Group+A4
+World,Olympic Games,1928,1,Regular Season,1928,Group+B
+World,Olympic Games,1928,1,Regular Season,1928,Group+B1
+World,Olympic Games,1928,1,Regular Season,1928,Group+B2
+World,Olympic Games,1928,1,Regular Season,1928,Group+B3
+World,Olympic Games,1928,1,Regular Season,1928,Group+B4
+World,Olympic Games,1928,1,Regular Season,1928,Group+C
+World,Olympic Games,1928,1,Regular Season,1928,Ranking+of+third-placed+teams
+World,Olympic Games Women,2070,1,Regular Season,2070,
+World,Olympic Games Women,2070,1,Regular Season,2070,Group+1
+World,Olympic Games Women,2070,1,Regular Season,2070,Group+2
+World,Olympic Games Women,2070,1,Regular Season,2070,Group+3
+World,Olympic Games Women,2070,1,Regular Season,2070,Group+4
+World,Olympic Games Women,2070,1,Regular Season,2070,Group+A
+World,Olympic Games Women,2070,1,Regular Season,2070,Group+B
+World,Olympic Games Women,2070,1,Regular Season,2070,Group+C
+World,Olympic Games Women,2070,1,Regular Season,2070,Ranking+of+third-placed+teams
+World,Pan American Games,1537,1,Regular Season,1537,
+World,Pan American Games,1537,1,Regular Season,1537,Group+A
+World,Pan American Games,1537,1,Regular Season,1537,Group+B
+World,Pan American Games Women,2704,1,Regular Season,2704,
+World,Pan American Games Women,2704,1,Regular Season,2704,Group+A
+World,Pan American Games Women,2704,1,Regular Season,2704,Group+B
+World,Universiade,2397,1,Regular Season,2397,
+World,Universiade Women,2398,1,Regular Season,2398,
+World,World Championship U17,1941,1,Regular Season,1941,
+World,World Championship U17 Women,2574,1,Regular Season,2574,
+World,World Championship U19,1360,1,Regular Season,1360,
+World,World Championship U19,1360,1,Regular Season,1360,Group+A
+World,World Championship U19,1360,1,Regular Season,1360,Group+B
+World,World Championship U19,1360,1,Regular Season,1360,Group+C
+World,World Championship U19,1360,1,Regular Season,1360,Group+D
+World,World Championship U19 Women,1433,1,Regular Season,1433,
+World,World Championship U19 Women,1433,1,Regular Season,1433,Group+A
+World,World Championship U19 Women,1433,1,Regular Season,1433,Group+B
+World,World Championship U19 Women,1433,1,Regular Season,1433,Group+C
+World,World Championship U19 Women,1433,1,Regular Season,1433,Group+D
+World,World Championship Women,1320,1,Regular Season,1320,
+World,World Championship Women,1320,1,Regular Season,1320,Group+A
+World,World Championship Women,1320,1,Regular Season,1320,Group+B
+World,World Championship Women,1320,1,Regular Season,1320,Group+C
+World,World Championship Women,1320,1,Regular Season,1320,Group+D
+World,World Cup,2603,1,Regular Season,2603,
+World,World Cup,2603,1,Regular Season,2603,Group+A
+World,World Cup,2603,1,Regular Season,2603,Group+B
+World,World Cup,2603,1,Regular Season,2603,Group+C
+World,World Cup,2603,1,Regular Season,2603,Group+D
+World,World Cup,2603,1,Regular Season,2603,Group+E
+World,World Cup,2603,1,Regular Season,2603,Group+F
+World,World Cup 3x3,3478,1,Regular Season,3478,
+World,World Cup 3x3 U18,3477,1,Regular Season,3477,
+World,World Cup 3x3 U18,3477,1,Regular Season,3477,Group+A
+World,World Cup 3x3 U18,3477,1,Regular Season,3477,Group+B
+World,World Cup 3x3 U18,3477,1,Regular Season,3477,Group+C
+World,World Cup 3x3 U18,3477,1,Regular Season,3477,Group+D
+World,World Cup 3x3 U18 Women,3476,1,Regular Season,3476,
+World,World Cup 3x3 U18 Women,3476,1,Regular Season,3476,Group+A
+World,World Cup 3x3 U18 Women,3476,1,Regular Season,3476,Group+B
+World,World Cup 3x3 U18 Women,3476,1,Regular Season,3476,Group+C
+World,World Cup 3x3 U18 Women,3476,1,Regular Season,3476,Group+D
+World,World Cup 3x3 U23,4012,1,Regular Season,4012,
+World,World Cup 3x3 U23 Women,4013,1,Regular Season,4013,
+World,World Cup 3x3 Women,3480,1,Regular Season,3480,
+World,World Tour Chengdu 3x3,3599,1,Regular Season,3599,
+World,World Tour Debrecen 3x3,3571,1,Regular Season,3571,
+World,World Tour Debrecen 3x3,3571,1,Regular Season,3571,Group+A
+World,World Tour Debrecen 3x3,3571,1,Regular Season,3571,Group+B
+World,World Tour Debrecen 3x3,3571,1,Regular Season,3571,Group+C
+World,World Tour Debrecen 3x3,3571,1,Regular Season,3571,Group+D
+World,World Tour Doha 3x3,4116,1,Regular Season,4116,
+World,World Tour Doha 3x3,4116,1,Regular Season,4116,Group+A
+World,World Tour Doha 3x3,4116,1,Regular Season,4116,Group+B
+World,World Tour Doha 3x3,4116,1,Regular Season,4116,Group+C
+World,World Tour Doha 3x3,4116,1,Regular Season,4116,Group+D
+World,World Tour Final 3x3,3622,1,Regular Season,3622,
+World,World Tour Hyderabad 3x3,4005,1,Regular Season,4005,
+World,World Tour Lausanne 3x3,3564,1,Regular Season,3564,
+World,World Tour Lausanne 3x3,3564,1,Regular Season,3564,Group+A
+World,World Tour Lausanne 3x3,3564,1,Regular Season,3564,Group+B
+World,World Tour Lausanne 3x3,3564,1,Regular Season,3564,Group+C
+World,World Tour Lausanne 3x3,3564,1,Regular Season,3564,Group+D
+World,World Tour Mexico City 3x3,3604,1,Regular Season,3604,
+World,World Tour Mexico City 3x3,3604,1,Regular Season,3604,Group+A
+World,World Tour Mexico City 3x3,3604,1,Regular Season,3604,Group+B
+World,World Tour Mexico City 3x3,3604,1,Regular Season,3604,Group+C
+World,World Tour Mexico City 3x3,3604,1,Regular Season,3604,Group+D
+World,World Tour Penang 3x3,4018,1,Regular Season,4018,
+World,World Tour Prague 3x3,3543,1,Regular Season,3543,
+World,World Tour Prague 3x3,3543,1,Regular Season,3543,Group+A
+World,World Tour Prague 3x3,3543,1,Regular Season,3543,Group+B
+World,World Tour Prague 3x3,3543,1,Regular Season,3543,Group+C
+World,World Tour Prague 3x3,3543,1,Regular Season,3543,Group+D
+World,World Tour Saskatoon 3x3,3514,1,Regular Season,3514,
